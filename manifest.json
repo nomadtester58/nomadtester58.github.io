@@ -1,12 +1,7 @@
 {
-  "name": "Grecko Bar & Restaurant",
-  "short_name": "Grecko",
-  "description": "Free Bootstrap Website Template",
-  "icons": [{
-    "src": "media/brand/logo-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }],
+  "name": "Nomad",
+  "short_name": "",
+  "description": "",
   "start_url": "/website-template-3/",
   "display": "standalone",
   "background_color": "#f2b632",
