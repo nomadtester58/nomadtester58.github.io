@@ -438,18 +438,18 @@ a:hover {
 }
 
 .nav-social:hover {
-  transform: scale(1.1) rotate(360deg);
+  transform: scale(1.5) rotate(360deg);
 }
 
 .nav-social i {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
-  color: rgba(0, 0, 0, 0.5);
+  color: white;
 }
 
-.nav-social i:hover {
-  color: rgba(0, 0, 0, 0.7);
-}
+/* .nav-social i:hover {
+  color: blue;
+} */
 
 /*
  * FOOTER SOCIAL
